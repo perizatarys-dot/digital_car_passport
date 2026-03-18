@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1022714773577",
+    "project_id": "perizat-app-2026-22b70",
+    "storage_bucket": "perizat-app-2026-22b70.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022714773577:android:524eda880c855b7a6dff98",
+        "android_client_info": {
+          "package_name": "com.example.digital_car_passport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022714773577-3n6u1gib7uhkj55ctad5eb5ut8rvqgeu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.digital_car_passport",
+            "certificate_hash": "a7db04968f4629c1e504db3379a25b758535036b"
+          }
+        },
+        {
+          "client_id": "1022714773577-vu28rsesg47gq9dlq2tep6uo404108vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAmKpilEyndVeaRH3bwH5IutOJnVTmxbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022714773577-vu28rsesg47gq9dlq2tep6uo404108vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
